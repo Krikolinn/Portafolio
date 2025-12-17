@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 Portafolio Personal - Irving Eduardo
 
 Aplicación web de 3 páginas con diseño moderno y responsive.
@@ -83,3 +84,7 @@ npx serve
 ---
 
 Desarrollado con HTML5, CSS3, JavaScript y ❤️
+=======
+# Portafolio
+Portafolio basico 
+>>>>>>> a3bf8f612390575a5946aba209081960e65dd30e
